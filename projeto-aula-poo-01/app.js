@@ -1,5 +1,5 @@
 var ingredientes = ['mel','água','sal','mostarda'];
-var modificado = [];
+var modificado =  [];
 
 for(var i = 0; i < ingredientes.length; i++){
     var letraInicial =
